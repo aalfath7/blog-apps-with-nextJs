@@ -24,7 +24,7 @@ export default function Page() {
           </svg>
           <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto lg:py-32 lg:text-left">
             <h2 className="text-balance text-3xl font-semibold tracking-tight text-white sm:text-4xl">
-              Boost your productivity. Start using our app today.
+              Blog Apps With NextJS
             </h2>
             <p className="mt-6 text-pretty text-lg/8 text-gray-300">
               Ac euismod vel sit maecenas id pellentesque eu sed consectetur.
