@@ -2,7 +2,7 @@ import Header from "../components/Header";
 
 export default async function Page() {
   let data = await fetch(
-    "https://rest-api-2c5f8-default-rtdb.firebaseio.com/blog.json?auth=TJGhOLFW6kWlEc9pAbXlkbh0VBwSr37lsA5I95mV"
+
   );
   let blogs = await data.json();
   return (
